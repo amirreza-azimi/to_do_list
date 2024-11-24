@@ -1,0 +1,6 @@
+user
+task: title, note, user_id, status, created_at, promis_time
+1: list the tasks
+2: add task
+3: edit(update)
+4: delete
